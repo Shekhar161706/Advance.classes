@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="439db114-487a-4fbf-9d6a-27e5fb892113" name="Changes" comment="" />
+    <list default="true" id="439db114-487a-4fbf-9d6a-27e5fb892113" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Advance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_FIles/Advance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_FIles/AdvanceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_FIles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NEW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advance_FIles/NEW.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,28 +40,28 @@
 }</component>
   <component name="RunManager" selected="Application.Advance">
     <configuration name="Advance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance" />
+      <option name="MAIN_CLASS_NAME" value="Advance_FIles.Advance" />
       <module name="Advance" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="AdvanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceDemo" />
+      <option name="MAIN_CLASS_NAME" value="Advance_FIles.AdvanceDemo" />
       <module name="Advance" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="Advance_FIles.Main" />
       <module name="Advance" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="NEW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NEW" />
+      <option name="MAIN_CLASS_NAME" value="Advance_FIles.NEW" />
       <module name="Advance" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,12 +142,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674570798026</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="this is my 1st git cloning..">
+      <created>1674570998334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674570998334</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is my git cloning" />
     <MESSAGE value="this is my 1st git cloning" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is my 1st git cloning" />
+    <MESSAGE value="this is my 1st git cloning.." />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my 1st git cloning.." />
   </component>
 </project>
