@@ -32,7 +32,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NEW">
+  <component name="RunManager" selected="Application.Advance">
     <configuration name="Advance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance" />
       <module name="Advance" />
@@ -70,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Advance" />
         <item itemvalue="Application.NEW" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.New" />
         <item itemvalue="Application.AdvanceDemo" />
-        <item itemvalue="Application.Advance" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674569195561</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="this is my 1st git cloning">
+      <created>1674570196831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674570196831</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
