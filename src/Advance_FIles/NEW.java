@@ -12,6 +12,10 @@ public class NEW {
         int b=a*a*a;
         System.out.println(b);
 
+        String name="Shekhar gupta";
+        System.out.println("name is..." +name);
+
+
 
 
 
