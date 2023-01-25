@@ -15,6 +15,10 @@ public class NEW {
         String name="Shekhar gupta";
         System.out.println("name is..." +name);
 
+        String city="agra";
+        System.out.println("City is..." +city);
+
+
 
 
 
